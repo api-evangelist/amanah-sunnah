@@ -1,0 +1,32 @@
+aid: amanah-sunnah
+name: Amanah Sunnah
+description: "Semantic search across Quran, Hadith, Tafsir & 18K+ Rijal narrators"
+url: https://sunnah.amanahagent.cloud/developers
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Books"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Books
+  - Public APIs
+apis:
+  - name: Amanah Sunnah
+    description: "Semantic search across Quran, Hadith, Tafsir & 18K+ Rijal narrators"
+    humanURL: https://sunnah.amanahagent.cloud/developers
+    baseURL: https://sunnah.amanahagent.cloud/developers
+    tags:
+      - Books
+    properties:
+      - type: Documentation
+        url: https://sunnah.amanahagent.cloud/developers
+common:
+  - type: Website
+    url: https://sunnah.amanahagent.cloud/developers
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
