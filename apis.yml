@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://sunnah.amanahagent.cloud/developers
 common:
+  - type: DomainSecurity
+    url: security/amanah-sunnah-domain-security.yml
   - type: Website
     url: https://sunnah.amanahagent.cloud/developers
   - type: PublicAPIsListing
