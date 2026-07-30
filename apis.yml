@@ -1,4 +1,16 @@
 aid: amanah-sunnah
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/amanah-sunnah.png
 name: Amanah Sunnah
 description: "Semantic search across Quran, Hadith, Tafsir & 18K+ Rijal narrators"
 url: https://sunnah.amanahagent.cloud/developers
