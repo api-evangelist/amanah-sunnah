@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/amanah-sun
 name: Amanah Sunnah
 description: "Semantic search across Quran, Hadith, Tafsir & 18K+ Rijal narrators"
 url: https://sunnah.amanahagent.cloud/developers
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
